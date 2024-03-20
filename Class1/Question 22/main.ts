@@ -1,9 +1,0 @@
-//Question 22
-
-let number=[1, 2, 3];
-
-console.log(number[4]); // Becouse 4th index is not existing in th array the will show the program "UNDEFINE"
-
-console.log(number[0]);
-console.log(number[1]);
-console.log(number[2]);
