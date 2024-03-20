@@ -1,0 +1,12 @@
+{
+  "name": "question-3",
+  "version": "1.0.0",
+  "description": "100_Days_Coding_Callenge",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Sarim",
+  "license": "MIT"
+}
