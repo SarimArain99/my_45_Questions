@@ -6,9 +6,9 @@ console.log("Is favoriteFruit == 'apple'? I predict True.");
 console.log(favoriteFruit == 'apple'); // True
 //Tests using the lower case function
 let favoriteCity = 'Karachi';
-console.log("Is favoriteCity.toLowerCase() == 'new york'? I predict True.");
+console.log("Is favoriteCity.toLowerCase() == 'Karachi'? I predict True.");
 console.log(favoriteCity.toLowerCase() == 'karachi'); // True
-console.log("Is favoriteCity.toLowerCase() == 'london'? I predict False.");
+console.log("Is favoriteCity.toLowerCase() == 'lahore'? I predict False.");
 console.log(favoriteCity.toLowerCase() == 'lahore'); // False
 //Equality and Inequality, Greater Than and Less Than, Greater Than or Equal To, and Less Than or Equal To
 let temperature = 75;
